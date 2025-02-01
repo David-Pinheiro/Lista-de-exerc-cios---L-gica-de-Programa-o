@@ -19,7 +19,7 @@ C
 
 📂 Estrutura do Repositório
 
-📂 Lista-de-exercicios---Logica-de-Programacao
+📂 Lista-de-exercicios---Logica-de-Programacao--C
 
 ├── Lista 01.c
 
