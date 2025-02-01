@@ -1,4 +1,5 @@
 **Exercícios de Algoritmos e Lógica de Programação**
+
 Este repositório contém exercícios desenvolvidos durante a disciplina de Algoritmos e Lógica de Programação do curso de Análise e Desenvolvimento de Sistemas (ADS).
 
 📌 Objetivo
