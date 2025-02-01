@@ -15,7 +15,8 @@ Vetores
 C
 
 📂 Estrutura do Repositório
-📂 algoritmos-logica-programacao  
+
+📂 Lista-de-exercicios---Logica-de-Programacao 
  ├── Lista 01.c  
  ├── Lista 2 - programação com switch case.c  
  ├── Lista 2.c  
