@@ -16,7 +16,6 @@ C
 
 📂 Estrutura do Repositório
 
-📂 Lista-de-exercicios---Logica-de-Programacao 
 📂 Lista-de-exercicios---Logica-de-Programacao
 ├── Lista 01.c
 ├── Lista 2 - programação com switch case.c
