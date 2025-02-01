@@ -17,13 +17,21 @@ C
 📂 Estrutura do Repositório
 
 📂 Lista-de-exercicios---Logica-de-Programacao
+
 ├── Lista 01.c
+
 ├── Lista 2 - programação com switch case.c
+
 ├── Lista 2.c
+
 ├── Lista 3.c
+
 ├── Lista 4 - com switch case.c
+
 ├── Lista 4.c
+
 ├── Lista 5 - funções e vetores.c
+
 ├── README.md
 
 🚀 Como Executar os Exercícios
