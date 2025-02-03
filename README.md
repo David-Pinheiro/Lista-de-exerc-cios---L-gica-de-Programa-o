@@ -1,9 +1,9 @@
-**Exercícios de Algoritmos e Lógica de Programação**
+# Exercícios de Algoritmos e Lógica de Programação
 
 Este repositório contém exercícios desenvolvidos durante a disciplina de Algoritmos e Lógica de Programação do curso de Análise e Desenvolvimento de Sistemas (ADS).
 
 
-📌 Objetivo
+## 📌 Objetivo
 O objetivo deste repositório é armazenar e compartilhar soluções para problemas de lógica de programação, utilizando a linguagem C. Os exercícios abordam conceitos fundamentais, como:
 
 Estruturas sequenciais
@@ -13,11 +13,11 @@ Funções
 Vetores
 
 
-🛠 Linguagem Utilizada
+## 🛠 Linguagem Utilizada
 C
 
 
-📂 Estrutura do Repositório
+## 📂 Estrutura do Repositório
 
 📂 Lista-de-exercicios---Logica-de-Programacao--C
 
@@ -38,7 +38,7 @@ C
 ├── README.md
 
 
-🚀 Como Executar os Exercícios
+## 🚀 Como Executar os Exercícios
 Clone este repositório:
 
 git clone https://github.com/seu-usuario/algoritmos-logica-programacao.git
@@ -48,5 +48,5 @@ Compile o código de cada lista utilizando um compilador C;
 Execute o arquivo gerado.
 
 
-📌 Contribuição
+## 📌 Contribuição
 Este repositório é pessoal, mas sugestões e melhorias são sempre bem-vindas! Caso queira contribuir, sinta-se à vontade para abrir uma issue ou um pull request.
